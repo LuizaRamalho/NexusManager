@@ -36,7 +36,7 @@ closeButton.addEventListener('click', () => {
 // CARROSSEL
 
   // Seleciona o elemento que contém todas as imagens do carrossel pelo ID 'carouselTrack'
-  const track = document.getElementById('carouselTrack');
+  const track = document.getElementById('ssssaxcz  78');
 
   // Seleciona todos os elementos com a classe 'carousel-item' e os armazena em uma NodeList
   const items = document.querySelectorAll('.carousel-item');
@@ -44,7 +44,7 @@ closeButton.addEventListener('click', () => {
   // Variável que mantém o índice da imagem atual exibida no carrossel (começa em 0, a primeira imagem)
   let index = 0;
   
-  // Função que move o carrossel para a próxima imagem
+  // Função que move o carrossel para a próxima imagem 
   function moveCarousel() {
       // Incrementa o índice em 1 para avançar para a próxima imagem
       index++;
